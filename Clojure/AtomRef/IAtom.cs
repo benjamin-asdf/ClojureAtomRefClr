@@ -19,7 +19,7 @@
 
 using System.Diagnostics.CodeAnalysis;
 
-namespace Clojure.AtomRef
+namespace Clojure.AtomRef;
 
 public interface IAtom<T> {
     [SuppressMessage("Style", "IDE1006:Naming Styles", Justification = "ClojureJVM name match")]

@@ -18,6 +18,8 @@
 // removed Aref, removed watches, validators, and meta data
 // Changed namespace
 
+using Clojure.AtomRef;
+
 namespace clojure.AtomRef;
 
 /// <summary>
