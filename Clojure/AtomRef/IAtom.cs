@@ -17,6 +17,7 @@
 // Changed namespace
 
 
+using System;
 using System.Diagnostics.CodeAnalysis;
 
 namespace clojure.AtomRef;

@@ -14,6 +14,8 @@
 
 // Benjamin: Changed namespace
 
+using System;
+using System.Threading;
 # nullable disable
 namespace clojure.AtomRef;
 
